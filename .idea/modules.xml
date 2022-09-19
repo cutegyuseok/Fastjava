@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Fastjava.iml" filepath="$PROJECT_DIR$/Fastjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prac/prac.iml" filepath="$PROJECT_DIR$/prac/prac.iml" />
     </modules>
   </component>
 </project>

@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d6c27c7-1637-418b-8939-4a4959b13466" name="Changes" comment="feat">
-      <change afterPath="$PROJECT_DIR$/prac/src/coutinuePrac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac/src/forprac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac/src/gugudan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac/src/gugudanStop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac/src/whileprac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac/src/switchprac.java" beforeDir="false" afterPath="$PROJECT_DIR$/prac/src/switchprac.java" afterDir="false" />
+    <list default="true" id="2d6c27c7-1637-418b-8939-4a4959b13466" name="Changes" comment="feat : prac">
+      <change afterPath="$PROJECT_DIR$/personal/personal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal/src/elevator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663655472179</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat : prac">
+      <created>1663661684785</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663661684785</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +159,7 @@
     <MESSAGE value="fix : test" />
     <MESSAGE value="feat : height compare via gyuseok" />
     <MESSAGE value="feat" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat" />
+    <MESSAGE value="feat : prac" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : prac" />
   </component>
 </project>

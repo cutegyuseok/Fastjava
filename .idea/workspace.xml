@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d6c27c7-1637-418b-8939-4a4959b13466" name="Changes" comment="feat : height compare via gyuseok">
-      <change afterPath="$PROJECT_DIR$/prac/src/charges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac/src/switchprac.java" afterDir="false" />
+    <list default="true" id="2d6c27c7-1637-418b-8939-4a4959b13466" name="Changes" comment="feat">
+      <change afterPath="$PROJECT_DIR$/prac/src/coutinuePrac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac/src/forprac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac/src/gugudan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac/src/gugudanStop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac/src/whileprac.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac/src/print.java" beforeDir="false" afterPath="$PROJECT_DIR$/prac/src/print.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/src/switchprac.java" beforeDir="false" afterPath="$PROJECT_DIR$/prac/src/switchprac.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,30 +46,30 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.switchprac">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.coutinuePrac">
+    <configuration name="coutinuePrac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coutinuePrac" />
       <module name="prac" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Fastjava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="charges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="charges" />
+    <configuration name="forprac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forprac" />
       <module name="prac" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="print" />
+    <configuration name="gugudan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gugudan" />
+      <module name="prac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gugudanStop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gugudanStop" />
       <module name="prac" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.coutinuePrac" />
         <item itemvalue="Application.switchprac" />
-        <item itemvalue="Application.charges" />
-        <item itemvalue="Application.print" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.gugudanStop" />
+        <item itemvalue="Application.gugudan" />
+        <item itemvalue="Application.forprac" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663592444524</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat">
+      <created>1663655472179</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663655472179</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +154,7 @@
     <MESSAGE value="feat : java prac" />
     <MESSAGE value="fix : test" />
     <MESSAGE value="feat : height compare via gyuseok" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : height compare via gyuseok" />
+    <MESSAGE value="feat" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat" />
   </component>
 </project>

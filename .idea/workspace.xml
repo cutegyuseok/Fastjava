@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d6c27c7-1637-418b-8939-4a4959b13466" name="Changes" comment="feat : prac">
-      <change afterPath="$PROJECT_DIR$/personal/personal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/personal/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/personal/src/elevator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="2d6c27c7-1637-418b-8939-4a4959b13466" name="Changes" comment="feat : creat privacy project">
+      <change afterPath="$PROJECT_DIR$/prac/src/scannerprac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,16 +41,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.coutinuePrac">
+  <component name="RunManager" selected="Application.scannerprac">
     <configuration name="coutinuePrac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="coutinuePrac" />
-      <module name="prac" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="forprac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="forprac" />
       <module name="prac" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,6 +63,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="scannerprac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scannerprac" />
+      <module name="prac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="switchprac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="switchprac" />
       <module name="prac" />
@@ -81,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.scannerprac" />
         <item itemvalue="Application.coutinuePrac" />
         <item itemvalue="Application.switchprac" />
         <item itemvalue="Application.gugudanStop" />
         <item itemvalue="Application.gugudan" />
-        <item itemvalue="Application.forprac" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663661684785</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat : creat privacy project">
+      <created>1663662024648</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663662024648</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +165,7 @@
     <MESSAGE value="feat : height compare via gyuseok" />
     <MESSAGE value="feat" />
     <MESSAGE value="feat : prac" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : prac" />
+    <MESSAGE value="feat : creat privacy project" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : creat privacy project" />
   </component>
 </project>

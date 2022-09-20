@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d6c27c7-1637-418b-8939-4a4959b13466" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/prac/me.java.input/me.java.input.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac/me.java.input/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac/me.java.input/src/me/java/datatype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jisija.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="2d6c27c7-1637-418b-8939-4a4959b13466" name="Changes" comment="수업">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +37,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
+    "settings.editor.selected.configurable": "MTProjectConfigurable"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Main">
@@ -171,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663669640233</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="수업">
+      <created>1663675560817</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663675560817</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,6 +195,7 @@
     <MESSAGE value="feat" />
     <MESSAGE value="feat: 윤년 판독기" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="수업" />
+    <option name="LAST_COMMIT_MESSAGE" value="수업" />
   </component>
 </project>

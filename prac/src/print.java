@@ -51,6 +51,8 @@ public class print {
         System.out.printf("%f\n", d);
         System.out.printf("%f\n", d);
 
+        System.out.println();
+
 
     }
 

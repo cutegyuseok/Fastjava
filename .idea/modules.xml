@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Fastjava.iml" filepath="$PROJECT_DIR$/Fastjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_ingang/java_ingang.iml" filepath="$PROJECT_DIR$/java_ingang/java_ingang.iml" />
       <module fileurl="file://$PROJECT_DIR$/prac/me.java.input/me.java.input.iml" filepath="$PROJECT_DIR$/prac/me.java.input/me.java.input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_ingang/note/note.iml" filepath="$PROJECT_DIR$/java_ingang/note/note.iml" />
       <module fileurl="file://$PROJECT_DIR$/personal/personal.iml" filepath="$PROJECT_DIR$/personal/personal.iml" />
       <module fileurl="file://$PROJECT_DIR$/prac/prac.iml" filepath="$PROJECT_DIR$/prac/prac.iml" />
     </modules>

@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d6c27c7-1637-418b-8939-4a4959b13466" name="Changes" comment="수업">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/java_ingang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/note/note.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/Student2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/baedal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/baedalCalss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/personInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/playerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/testStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,13 +41,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EyyPgid4cdlSzALIkCDmgpNBg3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -40,49 +61,49 @@
     "settings.editor.selected.configurable": "MTProjectConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="me.java.input" />
+  <component name="RunManager" selected="Application.baedal">
+    <configuration name="baedal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baedal" />
+      <module name="note" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sally" />
-      <module name="prac" />
+    <configuration name="infogenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="infogenerator" />
+      <module name="note" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Year" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year" />
-      <module name="prac" />
+    <configuration name="person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="person" />
+      <module name="note" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="class02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class02" />
-      <module name="Fastjava" />
+    <configuration name="playerInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playerInfo" />
+      <module name="note" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jisija" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jisija" />
-      <module name="Fastjava" />
+    <configuration name="testStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testStudent" />
+      <module name="note" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.jisija" />
-        <item itemvalue="Application.class02" />
-        <item itemvalue="Application.Year" />
-        <item itemvalue="Application.Sally" />
+        <item itemvalue="Application.baedal" />
+        <item itemvalue="Application.person" />
+        <item itemvalue="Application.testStudent" />
+        <item itemvalue="Application.infogenerator" />
+        <item itemvalue="Application.playerInfo" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663675560817</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="수업">
+      <created>1663677102437</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1663677102437</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +215,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="feat : java prac" />
     <MESSAGE value="fix : test" />
     <MESSAGE value="feat : height compare via gyuseok" />

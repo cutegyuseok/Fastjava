@@ -13,3 +13,7 @@ public class class02 {
         System.out.println(result);
     }
 }
+// 문자열 + 정수
+// 정수가 문자열에 결합되기 위해 변환됨
+// "a" + 1 == "a" + "1" == "a1"
+

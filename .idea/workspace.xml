@@ -2,25 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d6c27c7-1637-418b-8939-4a4959b13466" name="Changes" comment="수업">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/java_ingang.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/note/note.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/Student2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/baedal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/baedalCalss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/personInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/playerInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/note/src/testStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/Traffic/Traffic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/Traffic/src/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/Traffic/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/Traffic/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/Traffic/src/Subway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/Traffic/src/TransTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/note/ch12/ch12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/note/ch12/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/note/ch12/src/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/personal/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,22 +48,38 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "C:/Users/user/Desktop/FastIntellij/Fastjava",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "MTProjectConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.baedal">
-    <configuration name="baedal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baedal" />
-      <module name="note" />
+  <component name="RunManager" selected="Application.TransTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="me.java.input" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="infogenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="infogenerator" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Person" />
+      <module name="ch12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TransTest" />
+      <module name="Traffic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="baedal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baedal" />
       <module name="note" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,27 +92,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="playerInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playerInfo" />
-      <module name="note" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testStudent" />
-      <module name="note" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TransTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Person" />
         <item itemvalue="Application.baedal" />
         <item itemvalue="Application.person" />
-        <item itemvalue="Application.testStudent" />
-        <item itemvalue="Application.infogenerator" />
-        <item itemvalue="Application.playerInfo" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663677102437</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="수업">
+      <created>1663749108755</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1663749108755</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

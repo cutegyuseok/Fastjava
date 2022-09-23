@@ -2,18 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d6c27c7-1637-418b-8939-4a4959b13466" name="Changes" comment="수업">
-      <change afterPath="$PROJECT_DIR$/java_ingang/Traffic/Traffic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/Traffic/src/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/Traffic/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/Traffic/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/Traffic/src/Subway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/Traffic/src/TransTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/note/ch12/ch12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/note/ch12/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/note/ch12/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/C20220922.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch18/ch18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch18/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch18/src/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch18/src/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch18/src/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch18/src/CompanyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch18/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch18/src/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch18/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch19/ch19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch19/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch19/src/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch19/src/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch19/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/sangco/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/sangco/src/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/sangco/src/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/sangco/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/sangco/src/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/src/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/src/instance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/Traffic/src/Taxi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/personal/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ingang/Traffic/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ingang/Traffic/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ingang/Traffic/src/TransTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ingang/Traffic/src/TransTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,64 +58,72 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "C:/Users/user/Desktop/FastIntellij/Fastjava",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "MTProjectConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/FastIntellij/Fastjava&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MTProjectConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.TransTest">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\FastIntellij\Fastjava\java_ingang\C20220922\src" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CarTest (2)">
+    <configuration name="CarTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CarTest" />
+      <module name="ch18" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CarTest" />
+      <module name="sangco" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CarTest" />
+      <module name="ch19" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompanyTest" />
+      <module name="ch18" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="me.java.input" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Person" />
-      <module name="ch12" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TransTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TransTest" />
-      <module name="Traffic" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="baedal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baedal" />
-      <module name="note" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="person" />
-      <module name="note" />
+      <module name="ch19" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TransTest" />
+        <item itemvalue="Application.CarTest (2)" />
+        <item itemvalue="Application.CarTest (1)" />
+        <item itemvalue="Application.CarTest" />
+        <item itemvalue="Application.CompanyTest" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Person" />
-        <item itemvalue="Application.baedal" />
-        <item itemvalue="Application.person" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663749108755</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="수업">
+      <created>1663819865367</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1663819865367</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

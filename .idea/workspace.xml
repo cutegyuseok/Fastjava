@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d6c27c7-1637-418b-8939-4a4959b13466" name="Changes" comment="수업">
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/C20220922.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch18/ch18.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch18/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch18/src/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch18/src/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch18/src/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch18/src/CompanyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch18/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch18/src/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch18/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch19/ch19.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch19/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch19/src/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch19/src/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/ch19/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/sangco/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/sangco/src/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/sangco/src/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/sangco/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/sangco/src/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/src/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/C20220922/src/instance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/Traffic/src/Taxi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_ingang/Traffic/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ingang/Traffic/src/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_ingang/Traffic/src/TransTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ingang/Traffic/src/TransTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663819865367</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="수업">
+      <created>1663927613119</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1663927613119</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

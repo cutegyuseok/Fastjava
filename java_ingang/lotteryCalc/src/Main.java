@@ -27,10 +27,10 @@ public class Main {
             System.out.println(a);
         }
         System.out.println(count);
-
+        System.out.println("당신은 "+count*1000+"원을 쓰셨습니다.");
     }
 
-    public static boolean overlap(int num){
+    static boolean overlap(int num){
         boolean check = true;
         for(int i =0;i<arr.length;i++){
             if(arr[i]==num){
@@ -40,7 +40,7 @@ public class Main {
         return check;
     }
 
-    public static boolean victory(int[] result){
+    static boolean victory(int[] result){
         int grade =0;
         int[] VictoryNum ={7,16,24,27,37,44}; //로또 번호
         for(int i =0;i<VictoryNum.length;i++){

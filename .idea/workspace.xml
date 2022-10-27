@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d6c27c7-1637-418b-8939-4a4959b13466" name="Changes" comment="수업">
-      <change afterPath="$PROJECT_DIR$/java_ingang/Games/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/Games/src/roulette.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_ingang/lotteryCalc/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ingang/lotteryCalc/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dinnerMenuList.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ingang/Games/src/dinnerMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,6 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "11",
     "last_opened_file_path": "C:/Users/user/Desktop/FastIntellij/Fastjava",
@@ -57,37 +55,37 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.roulette">
-    <configuration name="CarTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CarTest" />
-      <module name="ch18" />
+  <component name="RunManager" selected="Application.dinnerMenu (2)">
+    <configuration name="dinnerMenu (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dinnerMenu" />
+      <module name="Games" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CarTest" />
-      <module name="sangco" />
+    <configuration name="dinnerMenu (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dinnerMenu" />
+      <module name="Games" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CarTest" />
-      <module name="ch19" />
+    <configuration name="dinnerMenu (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dinnerMenu" />
+      <module name="Games" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompanyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CompanyTest" />
-      <module name="ch18" />
+    <configuration name="dinnerMenu (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dinnerMenu" />
+      <module name="Games" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="roulette" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="roulette" />
+    <configuration name="dinnerMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dinnerMenu" />
       <module name="Games" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.roulette" />
-        <item itemvalue="Application.CarTest (2)" />
-        <item itemvalue="Application.CarTest (1)" />
-        <item itemvalue="Application.CarTest" />
-        <item itemvalue="Application.CompanyTest" />
+        <item itemvalue="Application.dinnerMenu (2)" />
+        <item itemvalue="Application.dinnerMenu" />
+        <item itemvalue="Application.dinnerMenu (1)" />
+        <item itemvalue="Application.dinnerMenu (5)" />
+        <item itemvalue="Application.dinnerMenu (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663582098093</updated>
-      <workItem from="1666850512064" duration="494000" />
+      <workItem from="1666850512064" duration="13879000" />
     </task>
     <task id="LOCAL-00001" summary="feat : java prac">
       <created>1663583903119</created>
@@ -218,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663927613119</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="수업">
+      <created>1666851185137</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1666851185137</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,5 +252,15 @@
     <MESSAGE value="." />
     <MESSAGE value="수업" />
     <option name="LAST_COMMIT_MESSAGE" value="수업" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

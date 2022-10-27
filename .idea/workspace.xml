@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d6c27c7-1637-418b-8939-4a4959b13466" name="Changes" comment="수업">
-      <change afterPath="$PROJECT_DIR$/dinnerMenuList.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ingang/Games/src/dinnerMenu.java" afterDir="false" />
+    <list default="true" id="2d6c27c7-1637-418b-8939-4a4959b13466" name="Changes" comment="feat: 저녁 메뉴 추천기 만들기.&#10;저녁 메뉴 추첨 method, 메뉴 추가 method, 메뉴 보기 method 완성">
+      <change afterPath="$PROJECT_DIR$/yesterDayMenu.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dinnerMenuList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dinnerMenuList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ingang/Games/src/dinnerMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ingang/Games/src/dinnerMenu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,15 +56,15 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.dinnerMenu (2)">
-    <configuration name="dinnerMenu (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.dinnerMenu">
+    <configuration name="dinnerMenu (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dinnerMenu" />
       <module name="Games" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dinnerMenu (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="dinnerMenu (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dinnerMenu" />
       <module name="Games" />
       <method v="2">
@@ -93,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.dinnerMenu (2)" />
         <item itemvalue="Application.dinnerMenu" />
-        <item itemvalue="Application.dinnerMenu (1)" />
         <item itemvalue="Application.dinnerMenu (5)" />
         <item itemvalue="Application.dinnerMenu (4)" />
+        <item itemvalue="Application.dinnerMenu (3)" />
+        <item itemvalue="Application.dinnerMenu (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663582098093</updated>
-      <workItem from="1666850512064" duration="13879000" />
+      <workItem from="1666850512064" duration="17753000" />
     </task>
     <task id="LOCAL-00001" summary="feat : java prac">
       <created>1663583903119</created>
@@ -223,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666851185137</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="feat: 저녁 메뉴 추천기 만들기.&#10;저녁 메뉴 추첨 method, 메뉴 추가 method, 메뉴 보기 method 완성">
+      <created>1666873768425</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1666873768425</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,7 +259,8 @@
     <MESSAGE value="feat: 윤년 판독기" />
     <MESSAGE value="." />
     <MESSAGE value="수업" />
-    <option name="LAST_COMMIT_MESSAGE" value="수업" />
+    <MESSAGE value="feat: 저녁 메뉴 추천기 만들기.&#10;저녁 메뉴 추첨 method, 메뉴 추가 method, 메뉴 보기 method 완성" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 저녁 메뉴 추천기 만들기.&#10;저녁 메뉴 추첨 method, 메뉴 추가 method, 메뉴 보기 method 완성" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

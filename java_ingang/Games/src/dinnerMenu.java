@@ -176,13 +176,17 @@ public class dinnerMenu {
         }
         JFrame jFrame = new JFrame();
         String getMessage = JOptionPane.showInputDialog(jFrame, "추가하실 음식을 입력해주세요.");
-        if (getMessage.isEmpty()||getMessage.equals(" ")||getMessage.equals("  ")){
-            JOptionPane.showMessageDialog(jFrame,  "음식 추가를 취소합니다.");
-        } else if(getMessage!=null) {
-            fw.write(getMessage + "\n");
-            JOptionPane.showMessageDialog(jFrame, getMessage + "을 추가 했습니다.");
-        }else {
-            JOptionPane.showMessageDialog(jFrame,  "음식 추가를 취소합니다.");
+        try {
+            if (getMessage.isEmpty() || getMessage.equals(" ") || getMessage.equals("  ")) {
+                JOptionPane.showMessageDialog(jFrame, "음식 추가를 취소합니다.");
+            } else if (getMessage != null) {
+                fw.write(getMessage + "\n");
+                JOptionPane.showMessageDialog(jFrame, getMessage + "을 추가 했습니다.");
+            } else {
+                JOptionPane.showMessageDialog(jFrame, "음식 추가를 취소합니다.");
+            }
+        }catch (NullPointerException e){
+            JOptionPane.showMessageDialog(jFrame, "음식 추가를 취소합니다.");
         }
         fw.close();
         readMenuList();

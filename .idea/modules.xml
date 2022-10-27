@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java_ingang/C20220922/C20220922.iml" filepath="$PROJECT_DIR$/java_ingang/C20220922/C20220922.iml" />
       <module fileurl="file://$PROJECT_DIR$/Fastjava.iml" filepath="$PROJECT_DIR$/Fastjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_ingang/Games/Games.iml" filepath="$PROJECT_DIR$/java_ingang/Games/Games.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_ingang/Traffic/Traffic.iml" filepath="$PROJECT_DIR$/java_ingang/Traffic/Traffic.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_ingang/note/ch12/ch12.iml" filepath="$PROJECT_DIR$/java_ingang/note/ch12/ch12.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_ingang/C20220922/ch18/ch18.iml" filepath="$PROJECT_DIR$/java_ingang/C20220922/ch18/ch18.iml" />

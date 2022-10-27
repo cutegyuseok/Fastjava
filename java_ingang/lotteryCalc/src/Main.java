@@ -27,7 +27,7 @@ public class Main {
             System.out.println(a);
         }
         System.out.println(count);
-        System.out.println("당신은 "+count*1000+"원을 쓰셨습니다.");
+//        System.out.println("당신은 "+count*1000+"원을 쓰셨습니다.");
     }
 
     static boolean overlap(int num){

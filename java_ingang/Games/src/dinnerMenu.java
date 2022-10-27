@@ -190,10 +190,10 @@ public class dinnerMenu {
     static void deleteMenu() throws IOException {
         JFrame jFrame = new JFrame();
         String getMessage = JOptionPane.showInputDialog(jFrame, showMenu()+
-                "\n===============\n"+"삭제하실 음식의 이름을 입력해주세요.");
+                "===============\n"+"삭제하실 음식의 이름을 입력해주세요.");
         try {
             if (getMessage.isEmpty() || getMessage.equals(" ") || getMessage.equals("  ") || getMessage == null) {
-                JOptionPane.showMessageDialog(jFrame, "음식 추가를 취소합니다.");
+                JOptionPane.showMessageDialog(jFrame, "음식 삭제를 취소합니다.");
             } else if (getMessage != null) {
                 boolean status = false;
                 for (int i = 0; i < menuNum; i++) {

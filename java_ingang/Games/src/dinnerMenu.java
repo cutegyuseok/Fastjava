@@ -186,7 +186,7 @@ public class dinnerMenu {
                 JOptionPane.showMessageDialog(jFrame, "음식 추가를 취소합니다.");
             }
         }catch (NullPointerException e){
-            JOptionPane.showMessageDialog(jFrame, "음식 추가를 취소합니다.");
+            JOptionPane.showMessageDialog(jFrame, "에러로 인해 음식 추가를 취소합니다.");
         }
         fw.close();
         readMenuList();
@@ -242,6 +242,18 @@ public class dinnerMenu {
                 str+=(menus[i]+"\n");
             }
             return str;
+    }
+
+    static boolean checkDoubleMenu(String menu){
+            boolean istrue = true;
+            for(String str :menus)
+            {
+                if (str.equals(menu)){
+                istrue = false;
+                    System.out.println("같은데?");
+        }
+            }
+            return istrue;
     }
 
 }
